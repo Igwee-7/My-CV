@@ -1,0 +1,59 @@
+body {
+    background-color: orange;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.cv {
+    max-width: 800px;
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
